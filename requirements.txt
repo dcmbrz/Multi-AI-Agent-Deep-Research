@@ -1,0 +1,9 @@
+# How to download all requirements run:
+# uv pip install -r requirements.txt
+crewai
+crewai-tools
+exa-py
+ollama
+langchain_openai
+langchain_community
+steamlit
